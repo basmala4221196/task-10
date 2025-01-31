@@ -1,0 +1,15 @@
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\bin\Debug\net6.0\LINQRestrictionOperators.exe
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\bin\Debug\net6.0\LINQRestrictionOperators.deps.json
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\bin\Debug\net6.0\LINQRestrictionOperators.runtimeconfig.json
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\bin\Debug\net6.0\LINQRestrictionOperators.dll
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\bin\Debug\net6.0\LINQRestrictionOperators.pdb
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\obj\Debug\net6.0\LINQRestrictionOperators.csproj.AssemblyReference.cache
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\obj\Debug\net6.0\LINQRestrictionOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\obj\Debug\net6.0\LINQRestrictionOperators.AssemblyInfoInputs.cache
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\obj\Debug\net6.0\LINQRestrictionOperators.AssemblyInfo.cs
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\obj\Debug\net6.0\LINQRestrictionOperators.csproj.CoreCompileInputs.cache
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\obj\Debug\net6.0\LINQRestrictionOperators.dll
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\obj\Debug\net6.0\refint\LINQRestrictionOperators.dll
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\obj\Debug\net6.0\LINQRestrictionOperators.pdb
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\obj\Debug\net6.0\LINQRestrictionOperators.genruntimeconfig.cache
+C:\Users\FreeComp\Desktop\رواد\tasks\LINQRestrictionOperators\LINQRestrictionOperators\obj\Debug\net6.0\ref\LINQRestrictionOperators.dll
